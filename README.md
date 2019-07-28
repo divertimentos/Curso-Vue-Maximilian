@@ -61,3 +61,26 @@
 * ### Deploying a Vue.js App
 
   * Shipping our application to a server
+
+## Projetos, Exercícios, Código e Perguntas
+
+### 1º Projeto
+
+* #### Basics, template interaction
+
+### 2º Projeto
+
+* #### Components
+
+### 3º Projeto
+
+* #### Animations
+
+### 4º Projeto
+
+* #### Final Project (incl. Routin, State Management)
+
+
+
+
+

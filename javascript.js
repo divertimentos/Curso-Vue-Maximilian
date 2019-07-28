@@ -4,7 +4,7 @@ var app = new Vue({
         title: 'Hello World!'
     },
     methods: {
-        changeTitle: function(event) {
+        changeTitle: function (event) {
             this.title = event.target.value;
         }
     }
